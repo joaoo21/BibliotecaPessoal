@@ -31,8 +31,8 @@ public class detalhe3 extends javax.swing.JDialog {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
-        jTabbedPane1.add("Autor", new Detalhe_2());
-        jTabbedPane1.add("Livro", new Detalhe());
+        jTabbedPane1.add("Livro", new Detalhe_2());
+        jTabbedPane1.add("Autor", new Detalhe());
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
